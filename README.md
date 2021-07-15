@@ -8,8 +8,9 @@
 
 ​		(3) Microsoft Visual C++ 14.0;
 
-​	 （4）lav解码器.
+​	  (4) lav解码器.
 
 ​	2.所需的库
 
 ​		tqdm ; typeguard ; visualdl>=2.1.0 ; opencv-python ; PyYAML ; shapely ; scipy ; terminaltables ; pycocotools ; setuptools>=42.0.0 ; paddlepaddle-gpu=2.1.1(有带cuda单元的gpu)/paddlepaddle=2.1.1(无带cuda单元的gpu) ; Pyqt5.
+  3.需要在paddledetection文件中添加自己训练的模型
